@@ -108,5 +108,17 @@ banalny sposób połączenie z siecią.
 
 Szkic rozmieszczenia okablowania i opis portów (https://imgur.com/a/nBrFQFL)
 
+7. Konfiguracja serwera.
+
+W sieci zostaną skonfigurowane trzy vlany. 
+Pierwszy będzie łączył ze sobą pomieszczenia biurowe, drugi sekcje open space, a trzeci sale konferencyjną.
+Vlan trzeci nie będzie miał komunikacji z vlan 1 i vlan 2.
+W tym pomieszczeniu tak jak wskazywaliśmy wcześniej będą często przebywać goście, którzy nie muszą mieć dostępnu do reszty w firmy co 
+zresztą mogło by powodować niebezpieczne sytuacje.
+
+Do adresowanie sieci bęziemy używać adresu z klasy c, dokładnie 192.16.0.0 z maską przez 26. Pozwoli to na zaadresowanie 62 hostów.
+Co spokojnie spełni zapotrzebowanie firmy i pozwoli na pewną nadmiarowość. Zawsze będą jeszcze wolne adresy dla nowych użytkownikó.
+
+Przypisywaniem adresów do poszczególnych stacji będzie zajmował się serwer dhcp skonfigurowany na głównym serwerze.
 
 
