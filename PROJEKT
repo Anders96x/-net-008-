@@ -1,16 +1,25 @@
-Celem projektu jest wykonanie sieci komputerowej dla małego biura znajdującego się w jednopiętrowym budynku.
-W firmie pracuje aktualnie 10 osób, lecz ta liczba ciągle się powiększa. 
-Na samym piętrze znajduję się kilka sal. 
+1.Wstęp
 
-•	Sześć pomieszczeń biurowych,
+Dokument ten ma za zadanie przygotować wstępny projekt sieci komouterewej dla malej lecz rozwijwjacej sie firmy 
+zajmujacej sie obsluga sklepu internetowego. 
+Jest to projekt przygotowujący siec dla dzialu 
+zajmującego sie obsluga klienta, ktory miesci sie w jednopiętrowym budynku. 
+Siec ma zapewnic bezproblemową komunikację miedzy pracownikami jak i na zewnątrz sieci lokalnej. 
+Aktualnie w budynku pracuje 10 osób jednakże w przyszłości firma moze sie rozrastać.
+Przewidywane maksymalne zatrudnienie to ok. 20 osób.
 
-•	Jedna sala konferencyjna,
-
-•	Jeden openspace
+W budynku znajduje sie kilka sal, ktore maja umożliwić użytkownikom spokojna i efektywną prace. 
+Pietro podzielone jest na 5 malych pomieszczeń biurowych. Są to pomieszczenia gdzie beda pracować pojedyncze osoby. 
+Zaraz obok nich bedzie sie znajdować kolejny pokój, ktory bedzie nam służył jako punkt adminkstracyjny. 
+Po drugiej stronie budynku beda znajdowac sie dwie duze sale. 
+Jedna z nich to sala konferencyjna gdzie będą przyjmowani goście z zewnątrz a druga to open space 
+gdzie będzie pracować większość pracowników.
 
 SZKIC BUDYNKU (https://i.imgur.com/dgdXc6R.png)
 
-Wszystkie pomieszczenia mają wysokość 3 m. 
-Pomieszczenia biurowe są wielkości 4x4 m. 
+Budynek został zaprojektowany w sposób gdzie każde pomieszczenie ma dokładnie 3 metry wysokości.
+Pomieszczenia biurowe są w rozmiarze 4 metry na 4 metry. W przypadku sali konferencyjnej wielkość to 8 metrów na 4 metry a open space
+to 12 metrów na 4 metry.
+Wszystkie pomieszczenia będzie rozdzielał korytarz.
 
-Sala konferencyjna 8x6m A open space 12x6m
+
