@@ -40,6 +40,8 @@ Jeden mniejszy, do którego zostaną podłączone dwa większę.
 Jeden z nich będzie znajdował z serwerowni i będzie odpowiadać za rozgłaszanie sieci do pomieszczeń biurowych
 Drugi natomiast znajdować się będzie w sekcji openspace, dzięki czemu zaoszczędzimy na długosci kabli i będziemy mieć łatwy
 dostęp do ewntualnych napraw.
+Trzeci zostanie umiejscowiony w sali konferencyjnej.
+Każde z urządzeń zostanie zamkniętę w szafce zabezpieczonej kluczem.
 
 3. Zastosowane okablowanie.
 
@@ -47,9 +49,17 @@ Do przygotowania sieci zamierzamy użyć skrętki w kategori 6e. Powodem podjęc
 samej skrętki. Dodatkowo po analizie cenowej aktualnie ceny kabli w kategori 6e są nieznacznie wyższe od kat. 5e.
 Skrętka będzie odpowiednio przygotowana do ułożenia jej w rynnie która będzie przechodzić pod podłogą, dzięki temu będzie mniejsza
 szansa na jakiekolwiek uszkodzenia w trakcie eksploatacji.
+Dodatkowo skrętka będzie ekranowana dzięki czemu zminimalizujemy zakłucenia zewnętrzne, na które może być narażona.
 
 W sieci wszystkie końcówki mają zostać przygotowane w standardzie TIA/EIA-568-B
 
 Zobrazowanie standardu (https://imgur.com/a/tYSQ5hm)
+
+Do przygotowania sieci będzie potrzebne około 150.7 m skrętki. W obliczeniach braliśmy pod uwagę zakup 10% więcej okablowania niż będzie
+to potrzebne.
+
+Długość skrętki (https://imgur.com/a/iSF7ENG)
+
+
 
 
