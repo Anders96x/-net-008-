@@ -33,3 +33,10 @@ temperaturze.
 
 W pomieszczeniu będzie znajdował się router, który będzie łączył sieć wewnętrzną z resztą swiata.
 Firma posiada przyłączony internet od zewnętrznego dostawcy.
+
+Do routera zostanie dołączony serwer. Będzie on odpowiedzialny za komunikację w całej sieci.
+W pomieszczeniu będą również znajodwać się trzy switche.
+Jeden mniejszy, do którego zostaną podłączone dwa większe odpowiedzialen za połączenie z pokojami biurowymi i openspace wraz z salą
+konferencyjna.
+
+
