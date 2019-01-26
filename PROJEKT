@@ -28,15 +28,25 @@ Wszystkie pomieszczenia będzie rozdzielał korytarz.
 Zgodnie z szkicem budynku pomieszczenie F zostanie przygowane jako punkt administracyjny.
 Pokój zostanie odpowiednio zabezpieczony. Dostępn do niego będą posiadać tylko osoby upoważnione i będzie on realizowane przez karte 
 dostępową. 
-Samo pomieszczenie zostanie też odpowiednio przygotowane pod kontem dobrej cyrkulacji powietrza aby urządzenia pracowały w niskiej 
-temperaturze.
+Samo pomieszczenie zostanie też odpowiednio przygotowane pod kontem dobrej cyrkulacji powietrza aby urządzenia pracowały w niskiej temperaturze.
 
 W pomieszczeniu będzie znajdował się router, który będzie łączył sieć wewnętrzną z resztą swiata.
 Firma posiada przyłączony internet od zewnętrznego dostawcy.
 
 Do routera zostanie dołączony serwer. Będzie on odpowiedzialny za komunikację w całej sieci.
-W pomieszczeniu będą również znajodwać się trzy switche.
-Jeden mniejszy, do którego zostaną podłączone dwa większe odpowiedzialen za połączenie z pokojami biurowymi i openspace wraz z salą
-konferencyjna.
+W pomieszczeniu będą również znajodwać się dwa switche.
+Jeden mniejszy, do którego zostaną podłączone dwa większę.
+Jeden z nich będzie znajdował z serwerowni i będzie odpowiadać za rozgłaszanie sieci do pomieszczeń biurowych
+Drugi natomiast znajdować się będzie w sekcji openspace, dzięki czemu zaoszczędzimy na długosci kabli i będziemy mieć łatwo dostęp do ewntualnych napraw.
+
+3. Zastosowane okablowanie.
+
+Do przygotowania sieci zamierzamy użyć skrętki w kategori 6e. Powodem podjęcia takiej decyzji jest wysoka przepustowość 
+samej skrętki. Dodatkowo po analizie cenowej aktualnie ceny kabli w kategori 6e są nieznacznie wyższe od kat. 5e.
+Skrętka będzie odpowiednio przygotowana do ułożenia jej w rynnie która będzie przechodzić pod podłogą, dzięki temu będzie mniejsza szansa na jakiekolwiek uszkodzenia w trakcie eksploatacji.
+
+W sieci wszystkie końcówki mają zostać przygotowane w standardzie TIA/EIA-568-B
+
+Zobrazowanie standardu (https://imgur.com/a/tYSQ5hm)
 
 
