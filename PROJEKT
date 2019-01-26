@@ -96,13 +96,17 @@ Wyjątkiem będzie drukarka gdzie będziemy mieć jeden port nazwany OSPrint.
 
 6. Sala konferencyjna. 
 W sali konferencyjnej będzie znajdował się jeden switch. Na samym środku pomieszczenia zostanie umieszczony florbox z 6 portami 
-dzięki czemu będzie można w razie potrzeby podłączyć 6 urządzeń. Jednakże to rozwiązanie prawdopodobnie nie będzie często używane.
+dzięki czemu będzie można w razie potrzeby podłączyć 6 urządzeń. 
+Porty będą opisane według schematu SK+nr portu np. SK-1.
+
+Jednakże to rozwiązanie prawdopodobnie nie będzie często używane.
 W pomieszczeniu za dystrybucję sieci będzie odpowiedzialny głównie accespoint. 
 
 Jest to rozwiązanie pozwalające każdemu na połączenie bezprzedowodowe z siecią z podaniem odpowiedniego hasła.
 W sali konferencyjnej będą przyjmowani goście w związku z czym wydaję się to najoptymalniejsze roziwązanie, pozwalające uzyskać w
 banalny sposób połączenie z siecią.
 
+Szkic rozmieszczenia okablowania i opis portów (https://imgur.com/a/IQY0O4n)
 
 
 
