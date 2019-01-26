@@ -41,6 +41,8 @@ Jeden z nich będzie znajdował z serwerowni i będzie odpowiadać za rozgłasza
 Drugi natomiast znajdować się będzie w sekcji openspace, dzięki czemu zaoszczędzimy na długosci kabli i będziemy mieć łatwy
 dostęp do ewntualnych napraw.
 Trzeci zostanie umiejscowiony w sali konferencyjnej.
+Dodatkowo w sali konferencyjnej umieścimi acces point dzięki czemu w przypadku przyjmowania gości przez firmę będzie można łatwo dostać 
+się do sieci bezprzewodowo.
 Każde z urządzeń zostanie zamkniętę w szafce zabezpieczonej kluczem.
 
 3. Zastosowane okablowanie.
@@ -59,6 +61,21 @@ Do przygotowania sieci będzie potrzebne około 150.7 m skrętki. W obliczeniach
 to potrzebne.
 
 Długość skrętki (https://imgur.com/a/iSF7ENG)
+
+4. Pomieszczenia biurowe.
+
+W każdym z pomieszczeń biurowych zostaną wyprowadzone dwa gniazda, każdym z nich będzie można podłączyć urządzenia abonenckie.
+Pierwotnie wykorzystywane będzię tylko jedno, jednakże firma zastanawia się nad zastosowaniem sieci voip do komunikacji pomiedzy 
+pracownikami jak i na zewnątrz.
+Dzięki drugiemu gniazdu z łatwością będzie można podłączyć odpowiedni telefon. Dodatkowo użyte okablowanie pozwoli na używanie 
+technologi poe dzieki czemu też zminimalizujemy używane okablowanie przy stanowisku.
+
+Same gniazda planujemy wyprowadzić w podłodze za pomocą skrzynek floorbox, będzie to najprostsze rozwiązanie ze względu na okablowanie
+które umieszczone jest pod podłogą. Plusem tego rozwiązania jest estetyka, sćiany zostaną nietknięte a sama skrzynka będzie praktycznie 
+niewidoczna. Ma ona znajdować się w kącie pomieszczenia zasłonięta biurkiem.
+
+Dla ułatwienia zarządzania siecią każde z gniazd zostanie odpowiednio opisane. Dla przykładu w pokoju A będziemy mieć dwa gniazda 
+o numerach a1 i a2. Litera oznacza pokój a cyfra numer gniazda.
 
 
 
